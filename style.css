@@ -43,14 +43,16 @@ background-image: url(paper.png);
 .bg-color
 {
     background: linear-gradient(#8F7514, #0B5045, #433503, #751176, #8F2B8F);
-    padding-bottom: 13em;
+    padding-bottom: 9em;
     border-left: 3em dotted black;
     border-right: 3em dotted black;
+    size: auto;
 
 }
 .btn
 {
     border-radius: 10em;
+    margin-bottom: 5em;
 
 }
 .btn:focus, .btn:active{
